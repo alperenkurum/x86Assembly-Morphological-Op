@@ -1,5 +1,5 @@
 # Image Proccesing With x86 Assembly 
-This project wrote with inline Assembly for school course named "Entry to Lower Level Programming". Project does dilation and eroion to the grey scale image. I add the instructions (Instruction.pdf) which the school gave me.
+This project made with inline Assembly for school course named "Entry to Lower Level Programming". Project does dilation and eroion to the grey scale image. I add the instructions (Instruction.pdf) which the school gave me.
 
 ### How to use the program
 
